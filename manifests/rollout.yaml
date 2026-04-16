@@ -24,7 +24,7 @@ spec:
     spec:
       containers:
         - name: webserver
-          image: ghcr.io/raresmatei2003/ci_cd_lab:latest
+          image: ghcr.io/raresmatei2003/ci_cd_lab:lat
           ports:
             - containerPort: 8080
           imagePullPolicy: Always
